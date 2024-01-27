@@ -1,0 +1,97 @@
+﻿ACGME-Accredited Specialties,Description of Experience,Number,Average,Standard Deviation,10th Percentile,25th Percentile,50th Percentile,75th Percentile,90th Percentile
+Anesthesiology,Number of research experiences,"1,830",3.0,2.1,1.0,1.0,3.0,4.0,6.0
+,"Number of abstracts, presentations, and publications","1,830",5.7,7.0,0.0,1.0,4.0,7.0,13.0
+,Number of work experiences,"1,830",3.6,2.4,1.0,2.0,3.0,5.0,7.0
+,Number of volunteer experiences,"1,830",7.5,4.3,3.0,5.0,7.0,10.0,13.0
+Child Neurology,Number of research experiences,164,3.1,1.9,1.0,2.0,3.0,4.0,5.7
+,"Number of abstracts, presentations, and publications",164,7.3,7.7,0.3,2.0,5.0,10.0,17.0
+,Number of work experiences,164,3.8,3.0,1.0,2.0,3.0,5.0,8.0
+,Number of volunteer experiences,164,6.8,4.2,2.0,4.0,6.0,9.0,12.0
+Emergency Medicine,Number of research experiences,"2,810",2.5,1.9,0.0,1.0,2.0,4.0,5.0
+,"Number of abstracts, presentations, and publications","2,810",4.6,5.6,0.0,1.0,3.0,6.0,11.0
+,Number of work experiences,"2,810",4.2,2.7,1.0,2.0,4.0,5.0,7.1
+,Number of volunteer experiences,"2,810",8.3,4.4,3.0,5.0,8.0,11.0,14.0
+Family Medicine,Number of research experiences,"4,585",1.8,1.7,0.0,1.0,1.0,3.0,4.0
+,"Number of abstracts, presentations, and publications","4,585",3.2,5.5,0.0,0.0,2.0,4.0,8.0
+,Number of work experiences,"4,585",4.1,3.3,1.0,2.0,3.0,5.0,8.0
+,Number of volunteer experiences,"4,585",7.2,4.6,2.0,4.0,7.0,10.0,13.0
+Internal Medicine,Number of research experiences,"8,987",2.6,2.2,0.0,1.0,2.0,4.0,5.0
+,"Number of abstracts, presentations, and publications","8,987",5.8,8.1,0.0,1.0,3.0,7.0,13.0
+,Number of work experiences,"8,987",4.3,3.3,1.0,2.0,4.0,6.0,8.0
+,Number of volunteer experiences,"8,987",6.4,4.1,2.0,4.0,6.0,9.0,12.0
+Internal Medicine (preliminary),Number of research experiences,"1,917",3.8,2.9,1.0,2.0,3.0,5.0,7.0
+,"Number of abstracts, presentations, and publications","1,917",10.5,12.9,1.0,3.0,7.0,13.0,25.0
+,Number of work experiences,"1,917",3.8,2.8,1.0,2.0,3.0,5.0,7.0
+,Number of volunteer experiences,"1,917",7.5,4.5,3.0,4.0,7.0,10.0,13.0
+Internal Medicine/Pediatrics,Number of research experiences,378,3.3,2.2,1.0,2.0,3.0,4.8,6.0
+,"Number of abstracts, presentations, and publications",378,6.5,6.8,0.0,2.0,5.0,8.0,14.0
+,Number of work experiences,378,4.0,2.6,1.0,2.0,4.0,5.0,7.0
+,Number of volunteer experiences,378,10.2,4.7,5.0,7.0,10.0,13.0,17.0
+Neurological Surgery,Number of research experiences,228,5.3,2.8,2.0,3.0,5.0,7.0,9.0
+,"Number of abstracts, presentations, and publications",228,30.0,29.8,7.0,12.0,20.0,35.0,58.9
+,Number of work experiences,228,3.5,2.5,1.0,2.0,3.0,5.0,7.0
+,Number of volunteer experiences,228,7.2,4.1,3.0,4.0,6.5,9.0,12.0
+Neurology,Number of research experiences,895,3.1,2.1,1.0,2.0,3.0,4.0,6.0
+,"Number of abstracts, presentations, and publications",895,7.6,13.1,0.0,2.0,5.0,9.0,17.0
+,Number of work experiences,895,4.2,3.4,1.0,2.0,3.0,5.0,8.0
+,Number of volunteer experiences,895,6.5,4.3,2.0,3.0,6.0,9.0,12.0
+Obstetrics and Gynecology1,Number of research experiences,"1,460",3.9,2.5,1.0,2.0,4.0,5.0,7.0
+,"Number of abstracts, presentations, and publications","1,460",6.8,6.8,0.0,2.0,5.0,9.0,14.0
+,Number of work experiences,"1,460",4.1,2.6,1.0,2.0,4.0,5.0,7.0
+,Number of volunteer experiences,"1,460",9.9,4.6,5.0,7.0,9.0,12.0,16.0
+Orthopaedic Surgery,Number of research experiences,862,5.3,3.5,2.0,3.0,5.0,7.0,9.0
+,"Number of abstracts, presentations, and publications",862,16.7,21.9,2.0,5.3,11.0,20.0,35.0
+,Number of work experiences,862,4.0,2.4,1.0,2.0,4.0,5.0,7.0
+,Number of volunteer experiences,862,8.7,4.4,4.0,6.0,8.0,11.0,14.0
+Osteopathic Neuromusculoskeletal Medicine,Number of research experiences,37,1.7,1.9,0.0,0.0,1.0,2.0,4.4
+,"Number of abstracts, presentations, and publications",37,2.5,3.4,0.0,0.0,1.0,3.0,8.0
+,Number of work experiences,37,4.4,3.5,0.6,2.0,4.0,6.0,8.8
+,Number of volunteer experiences,37,8.7,9.9,0.0,3.0,7.0,10.0,18.2
+Otolaryngology,Number of research experiences,346,6.6,3.6,3.0,4.0,6.0,8.0,10.0
+,"Number of abstracts, presentations, and publications",346,16.2,12.2,5.0,9.0,14.0,20.0,28.0
+,Number of work experiences,346,3.5,2.2,1.0,2.0,3.0,5.0,6.0
+,Number of volunteer experiences,346,9.2,4.1,4.0,6.0,9.0,12.0,14.5
+Pathology: Anatomic and Clinical,Number of research experiences,577,2.6,2.2,0.0,1.0,2.0,4.0,5.0
+,"Number of abstracts, presentations, and publications",577,8.4,11.4,0.0,1.0,5.0,11.0,20.0
+,Number of work experiences,577,4.8,3.8,1.0,2.0,4.0,7.0,9.4
+,Number of volunteer experiences,577,4.8,3.9,1.0,2.0,4.0,7.0,9.0
+Pediatrics1,Number of research experiences,"3,074",2.8,2.0,0.0,1.0,2.0,4.0,5.0
+,"Number of abstracts, presentations, and publications","3,074",5.5,6.6,0.0,1.0,4.0,7.0,12.0
+,Number of work experiences,"3,074",4.0,2.8,1.0,2.0,3.0,5.0,8.0
+,Number of volunteer experiences,"3,074",8.7,4.7,3.0,5.0,8.0,11.0,15.0
+Physical Medicine and Rehabilitation,Number of research experiences,472,2.8,2.5,0.0,1.0,2.0,4.0,5.0
+,"Number of abstracts, presentations, and publications",472,5.8,7.5,0.0,1.0,4.0,8.0,13.0
+,Number of work experiences,472,3.8,2.9,1.0,2.0,3.0,5.0,7.0
+,Number of volunteer experiences,472,8.2,5.1,3.0,5.0,7.5,10.0,13.0
+Plastic Surgery: Integrated,Number of research experiences,187,5.9,3.4,3.0,4.0,5.0,7.0,9.0
+,"Number of abstracts, presentations, and publications",187,26.7,25.0,7.0,11.0,18.0,33.5,54.4
+,Number of work experiences,187,4.1,2.8,1.0,2.0,3.0,6.0,7.0
+,Number of volunteer experiences,187,9.0,4.7,4.0,6.0,8.0,11.0,15.0
+Psychiatry,Number of research experiences,"1,986",2.8,2.2,0.0,1.0,2.0,4.0,6.0
+,"Number of abstracts, presentations, and publications","1,986",5.9,9.2,0.0,1.0,4.0,8.0,13.0
+,Number of work experiences,"1,986",4.0,3.1,1.0,2.0,3.0,5.0,8.0
+,Number of volunteer experiences,"1,986",7.5,4.3,3.0,4.0,7.0,10.0,13.0
+"Radiology, Interventional: Independent",Number of research experiences,140,2.5,2.5,0.0,0.8,2.0,4.0,6.0
+,"Number of abstracts, presentations, and publications",140,12.1,11.4,1.0,4.0,8.0,16.0,26.2
+,Number of work experiences,140,3.6,3.4,0.0,2.0,3.0,5.0,7.0
+,Number of volunteer experiences,140,5.5,4.5,0.0,2.0,5.0,8.0,11.0
+Surgery: General,Number of research experiences,"1,422",4.1,2.6,1.0,2.0,4.0,5.0,7.0
+,"Number of abstracts, presentations, and publications","1,422",9.0,11.6,1.0,3.0,6.0,11.0,19.0
+,Number of work experiences,"1,422",4.0,2.6,1.0,2.0,4.0,5.0,7.0
+,Number of volunteer experiences,"1,422",8.5,4.7,3.1,5.0,8.0,11.0,14.0
+Surgery: General (preliminary),Number of research experiences,"1,047",3.8,3.7,1.0,2.0,3.0,5.0,7.0
+,"Number of abstracts, presentations, and publications","1,047",11.4,16.3,1.0,3.0,6.0,14.0,26.0
+,Number of work experiences,"1,047",4.3,3.0,1.0,2.0,4.0,6.0,8.0
+,Number of volunteer experiences,"1,047",7.2,4.9,2.0,4.0,6.0,10.0,13.0
+Thoracic Surgery: Integrated,Number of research experiences,54,5.5,2.5,3.0,4.0,5.0,6.8,9.7
+,"Number of abstracts, presentations, and publications",54,20.3,18.1,5.3,7.3,13.0,23.8,51.8
+,Number of work experiences,54,4.0,2.8,1.0,2.0,3.5,5.8,7.7
+,Number of volunteer experiences,54,8.5,4.2,4.0,5.3,8.0,11.0,13.7
+Transitional Year,Number of research experiences,"1,524",3.8,3.3,1.0,2.0,3.0,5.0,7.0
+,"Number of abstracts, presentations, and publications","1,524",9.0,11.0,0.0,2.0,6.0,12.0,21.0
+,Number of work experiences,"1,524",3.9,3.0,1.0,2.0,3.0,5.0,7.0
+,Number of volunteer experiences,"1,524",7.5,4.5,3.0,5.0,7.0,10.0,13.0
+Vascular Surgery: Integrated,Number of research experiences,80,4.6,2.7,2.0,3.0,4.0,6.0,8.0
+,"Number of abstracts, presentations, and publications",80,14.2,13.9,3.9,6.0,10.0,17.0,27.1
+,Number of work experiences,80,4.5,3.2,1.0,2.0,4.0,6.0,8.1
+,Number of volunteer experiences,80,8.1,4.2,3.0,5.0,8.0,10.0,14.0

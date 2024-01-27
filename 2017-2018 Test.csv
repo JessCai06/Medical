@@ -1,0 +1,155 @@
+﻿ACGME-Accredited Specialties,Description of Test or Experience,N,Average,Standard Deviation,10th Percentile,25th Percentile,50th Percentile,75th Percentile,90th Percentile
+Anesthesiology,MCAT Score,"1,424",30.2,4.4,24.3,27,30,33,35
+,STEP 1 Score,"1,348",230.6,16.5,207,219,232,243,251
+,STEP 2 CK Score,"1,454",240,14.7,220.3,230,241,251,259
+,Number of research experiences,"1,565",2.3,1.8,0,1,2,3,4.6
+,"Number of abstracts, presentations, and publications","1,565",4,5.6,0,0,2,5,10
+,Number of work experiences,"1,565",3.2,2.4,1,2,3,4,6
+,Number of volunteer experiences,"1,565",6.1,4.2,1,3,5,8,11
+Child Neurology,MCAT Score,100,31.5,4,26,29,32,34.3,37
+,STEP 1 Score,123,227.3,18.4,204.2,213.5,226,241,253.8
+,STEP 2 CK Score,122,238.8,17.2,216.1,225.3,240.5,252.8,259.9
+,Number of research experiences,125,3,2.2,0,1,3,4,6
+,"Number of abstracts, presentations, and publications",125,6.9,9,0,2,4,8,15.6
+,Number of work experiences,125,3.9,3.4,1,2,3,5,8
+,Number of volunteer experiences,125,6.4,4.4,1,3,6,8,12
+Emergency Medicine,MCAT Score,"2,181",30.3,4.3,25,28,30,33,36
+,STEP 1 Score,"1,759",232.5,15.9,211,222,233,244,253
+,STEP 2 CK Score,"2,008",244.5,14.2,225,235,245,254,263
+,Number of research experiences,"2,221",2,1.7,0,1,2,3,4
+,"Number of abstracts, presentations, and publications","2,221",3.4,5.8,0,0,2,4,8
+,Number of work experiences,"2,221",3.6,2.8,1,2,3,5,7
+,Number of volunteer experiences,"2,221",6.8,4.3,2,4,6,9,12
+Family Medicine,MCAT Score,"3,440",27.4,4.8,21,24,28,31,33
+,STEP 1 Score,"2,481",216.7,16.4,197,204,215,227,240
+,STEP 2 CK Score,"2,886",230.5,15.4,212,219,229,241,252
+,Number of research experiences,"3,768",1.5,1.5,0,0,1,2,3
+,"Number of abstracts, presentations, and publications","3,768",2.2,3.8,0,0,1,3,6
+,Number of work experiences,"3,768",3.8,3.5,1,2,3,5,8
+,Number of volunteer experiences,"3,768",6.5,4.6,1,3,6,9,12
+Internal Medicine (preliminary),MCAT Score,"1,894",31.5,4.5,26,29,32,35,37
+,STEP 1 Score,"1,977",236.2,17.2,213,225,238,249,257
+,STEP 2 CK Score,"2,114",243.6,15.7,222.3,233,245,255,264
+,Number of research experiences,"2,183",3.1,2.2,0,2,3,4,6
+,"Number of abstracts, presentations, and publications","2,183",7.1,9.1,0,2,4,9,17
+,Number of work experiences,"2,183",3.3,2.6,1,1,3,4,6
+,Number of volunteer experiences,"2,183",6.3,4.1,2,3,6,8,11
+Internal Medicine (categorical),MCAT Score,"5,326",29.4,5.2,23,26,30,33,36
+,STEP 1 Score,"5,483",231.8,17.5,207,219,233,245,254
+,STEP 2 CK Score,"6,489",240.8,16.1,219,230,241,253,262
+,Number of research experiences,"7,324",2.1,1.9,0,1,2,3,4
+,"Number of abstracts, presentations, and publications","7,324",4.1,7,0,0,2,5,10
+,Number of work experiences,"7,324",3.8,3.2,1,2,3,5,8
+,Number of volunteer experiences,"7,324",5.3,3.9,1,3,5,7,10
+Internal Medicine/Pediatrics,MCAT Score,347,30.5,4.4,25,28,31,33,36
+,STEP 1 Score,330,231.4,15.3,211,221,233,242.8,251
+,STEP 2 CK Score,353,244,14.3,225,235,246,253,262
+,Number of research experiences,370,2.2,1.6,0,1,2,3,4
+,"Number of abstracts, presentations, and publications",370,3.9,5.2,0,0.3,3,5,10
+,Number of work experiences,370,3.4,3.2,0,1,3,4,7
+,Number of volunteer experiences,370,7.5,4.5,3,4,7,10,13
+Neurological Surgery,MCAT Score,203,32.4,3.9,28,30,32,35,37
+,STEP 1 Score,214,243.3,14.1,226,235,245,254,259
+,STEP 2 CK Score,218,244.5,16.5,222,234,245,257.8,265.3
+,Number of research experiences,220,4.2,2.4,2,3,4,5,7
+,"Number of abstracts, presentations, and publications",220,15.8,16.6,4,6,11,20,32.3
+,Number of work experiences,220,3.1,2.5,1,1,3,4,6
+,Number of volunteer experiences,220,6,4.6,1,3,5,8,11
+Neurology,MCAT Score,588,30.4,4.8,24,27,31,33,36
+,STEP 1 Score,650,229.6,17.4,206,217,230,243,253
+,STEP 2 CK Score,695,238.7,16.6,217,228,239,251,260
+,Number of research experiences,772,2.6,2,0,1,2,4,5
+,"Number of abstracts, presentations, and publications",772,6,9.8,0,1,3,7,14
+,Number of work experiences,772,3.8,3.3,1,2,3,5,8
+,Number of volunteer experiences,772,5.5,4.2,1,3,5,8,11
+Obstetrics and Gynecology1,MCAT Score,"1,242",29.3,4.2,24,27,30,32,34
+,STEP 1 Score,"1,123",227.9,15.4,207,216,228,239,248
+,STEP 2 CK Score,"1,234",242.7,14.8,223,233,243,254,262
+,Number of research experiences,"1,310",2.7,1.9,0,1,2,4,5
+,"Number of abstracts, presentations, and publications","1,310",4.2,6.2,0,1,3,6,10
+,Number of work experiences,"1,310",3.4,2.6,1,2,3,5,7
+,Number of volunteer experiences,"1,310",8.2,4.5,3,5,7,10,14
+Orthopaedic Surgery,MCAT Score,747,31.7,3.8,27,29,32,34,36
+,STEP 1 Score,723,245.5,12.2,230,238,246,254,260
+,STEP 2 CK Score,733,252.3,11.9,237,245,253,261,267
+,Number of research experiences,764,3.6,2.4,1,2,3,5,6
+,"Number of abstracts, presentations, and publications",764,9.6,14.5,1,3,6,10,21
+,Number of work experiences,764,3.1,2.1,1,2,3,4,6
+,Number of volunteer experiences,764,7,3.9,3,4,6,9,12
+Otolaryngology,MCAT Score,308,32.5,3.7,28,30,33,35,37
+,STEP 1 Score,304,246.8,11.7,233,240,248.5,254,260
+,STEP 2 CK Score,311,252.6,12.7,236,244,254,261,267
+,Number of research experiences,311,4.5,2.3,2,3,4,6,8
+,"Number of abstracts, presentations, and publications",311,9.6,8,2,4.5,7,12,20
+,Number of work experiences,311,3,2.2,1,1,3,4,5
+,Number of volunteer experiences,311,7.3,4,3,5,7,9,12
+Pathology: Anatomic and Clinical,MCAT Score,341,30.4,5,24,28,31,34,36
+,STEP 1 Score,518,227.3,17,204.7,214,228,240,249
+,STEP 2 CK Score,552,233.8,16.3,214,221,234,246,255
+,Number of research experiences,577,2.2,1.8,0,1,2,3,5
+,"Number of abstracts, presentations, and publications",577,8.3,15.4,0,1,4,10,20
+,Number of work experiences,577,3.9,3.4,0,2,3,5,8
+,Number of volunteer experiences,577,4.4,4.1,0,2,4,6,9
+Pediatrics1,MCAT Score,"2,490",29.9,4.4,24,27,30,33,35
+,STEP 1 Score,"2,418",227.2,17,203,215,227,240,250
+,STEP 2 CK Score,"2,596",240.7,15.5,220,229,241,252,261
+,Number of research experiences,"2,784",2.2,1.7,0,1,2,3,4
+,"Number of abstracts, presentations, and publications","2,784",3.5,4.8,0,0,2,5,9
+,Number of work experiences,"2,784",3.4,2.7,1,2,3,5,7
+,Number of volunteer experiences,"2,784",7.6,4.8,2.3,4,7,10,13
+Physical Medicine and Rehabilitation,MCAT Score,364,28.7,4.3,23,26,29,31,34
+,STEP 1 Score,275,223.8,16.1,201.4,212,224,235,245.6
+,STEP 2 CK Score,277,235.5,14.6,218,223,235,247,254.4
+,Number of research experiences,398,2.2,1.8,0,1,2,3,5
+,"Number of abstracts, presentations, and publications",398,4,6.5,0,0,2,5,10.3
+,Number of work experiences,398,3.3,2.7,1,1,3,4.8,7
+,Number of volunteer experiences,398,6.7,4.2,2,4,6,9,12
+Plastic Surgery: Integrated,MCAT Score,155,32.4,3.7,28,30,32,35,37
+,STEP 1 Score,159,246.1,14.2,225,238,249,257,263
+,STEP 2 CK Score,162,251.1,15.6,233.1,242.3,253,262,268
+,Number of research experiences,163,4.3,2.6,1,2,4,6,7.8
+,"Number of abstracts, presentations, and publications",163,14.6,14.5,2.2,5,10,19,29.6
+,Number of work experiences,163,3.1,2.5,1,1,3,4,6
+,Number of volunteer experiences,163,7.5,4.6,3,4,6,9,13.8
+Psychiatry,MCAT Score,"1,354",29.7,4.9,24,27,30,33,36
+,STEP 1 Score,"1,286",220.5,17.7,197,207,220,233,245
+,STEP 2 CK Score,"1,365",232.5,16,213,221,232,244,255
+,Number of research experiences,"1,567",2.1,1.8,0,1,2,3,4
+,"Number of abstracts, presentations, and publications","1,567",3.6,5.6,0,0,2,5,9
+,Number of work experiences,"1,567",3.6,3.2,1,2,3,5,8
+,Number of volunteer experiences,"1,567",6,4.3,2,3,5,8,11
+Surgery: General (preliminary),MCAT Score,994,30.5,4.6,25,28,31,33.8,36
+,STEP 1 Score,"1,060",232,18.1,205,219,234,246,254
+,STEP 2 CK Score,"1,173",239.3,16,217,228,240,251,260
+,Number of research experiences,"1,194",3.1,2.9,0,1,3,4,6
+,"Number of abstracts, presentations, and publications","1,194",7.9,12.5,0,2,5,9,17
+,Number of work experiences,"1,194",3.5,3.2,1,2,3,5,7
+,Number of volunteer experiences,"1,194",5.9,4.5,1,3,5,8,11
+Surgery: General (categorical),MCAT Score,"1,154",30.8,4.1,25,28,31,34,36
+,STEP 1 Score,"1,076",235,14.7,215,225,235,246,254
+,STEP 2 CK Score,"1,173",246.5,13.3,228,238,247,256,263
+,Number of research experiences,"1,216",2.8,2,1,1,3,4,5
+,"Number of abstracts, presentations, and publications","1,216",5.3,8.1,0,1,4,7,11.5
+,Number of work experiences,"1,216",3.3,2.6,1,1,3,4,6
+,Number of volunteer experiences,"1,216",6.7,3.9,2,4,6,9,11
+Thoracic Surgery: Integrated,MCAT Score,36,32.4,4.2,25.5,29,34,35,37.5
+,STEP 1 Score,39,242.3,11.6,227.8,234,244,252,256
+,STEP 2 CK Score,39,246.2,13.8,225.8,238,248,256,259.2
+,Number of research experiences,40,3.5,2.3,0,2,3,5,7
+,"Number of abstracts, presentations, and publications",40,10.1,8.5,1,4,10,14,19.1
+,Number of work experiences,40,3.1,2.3,1,1,3,4,6.1
+,Number of volunteer experiences,40,5.7,3.1,1.9,3.8,6,8,10
+Transitional Year,MCAT Score,"1,005",30.8,4.7,25,28,31,34,36
+,STEP 1 Score,927,238.8,17.2,214,228,242,251,258
+,STEP 2 CK Score,"1,005",244.9,16.3,220,235,248,257,264
+,Number of research experiences,"1,063",3.2,2.4,0,2,3,4,6
+,"Number of abstracts, presentations, and publications","1,063",6.8,8.4,0,1,4,9,16
+,Number of work experiences,"1,063",3.3,2.9,1,1,3,4,6.8
+,Number of volunteer experiences,"1,063",6.8,4.5,2,4,6,9,12
+Vascular Surgery: Integrated,MCAT Score,58,31.9,3.6,27,30,32,34,37
+,STEP 1 Score,62,235.2,13.4,222.1,226,236,244.8,252
+,STEP 2 CK Score,64,246.5,12.4,228.9,239,247.5,256.3,258.7
+,Number of research experiences,65,3.7,2,1,3,4,5,6
+,"Number of abstracts, presentations, and publications",65,10.8,12.9,2,4,7,11,22.6
+,Number of work experiences,65,3.3,2.3,1,2,3,4,6.6
+,Number of volunteer experiences,65,6.8,3.8,2,4,7,9,11

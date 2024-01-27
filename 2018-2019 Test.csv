@@ -1,0 +1,133 @@
+﻿ACGME-Accredited Specialties,Description of Test or Experience,Number,Average,Standard Deviation,10th Percentile,25th Percentile,50th Percentile,75th Percentile,90th Percentile
+Anesthesiology,STEP 1 Score,"1,504",230.6,15.8,210,220,231,242,251
+,STEP 2 CK Score,"1,559",241.3,14.3,222,231,242,251,260
+,Number of research experiences,"1,622",2.4,2.1,0,1,2,3,5
+,"Number of abstracts, presentations, and publications","1,622",4.3,6.7,0,0,2,5,10
+,Number of work experiences,"1,622",3.3,2.5,1,2,3,4,6
+,Number of volunteer experiences,"1,622",6.1,3.8,2,3,6,8,11
+Child Neurology,STEP 1 Score,117,228.6,16.6,207.6,217,229,238,250
+,STEP 2 CK Score,117,241.5,14.7,221.6,232,243,251,259
+,Number of research experiences,126,3.3,1.9,1,2,3,4,6
+,"Number of abstracts, presentations, and publications",126,7.1,8.1,0,2,4,10.8,16.5
+,Number of work experiences,126,3.6,2.7,1,2,3,5,7.5
+,Number of volunteer experiences,126,7.4,4.2,3,5,7,9,12.5
+Emergency Medicine,STEP 1 Score,"2,170",231.1,15.9,210,220,232,242,252
+,STEP 2 CK Score,"2,189",244.2,14.4,225,235,245,255,262
+,Number of research experiences,"2,386",2,1.7,0,1,2,3,4
+,"Number of abstracts, presentations, and publications","2,386",3.3,4.5,0,0,2,5,8
+,Number of work experiences,"2,386",3.5,2.5,1,2,3,5,7
+,Number of volunteer experiences,"2,386",6.9,4.1,2,4,6,9,12
+Family Medicine,STEP 1 Score,"3,008",215.9,16,196,204,214,226,238
+,STEP 2 CK Score,"3,087",231.1,14.9,213,220,229,241,252
+,Number of research experiences,"4,106",1.6,1.6,0,0,1,2,4
+,"Number of abstracts, presentations, and publications","4,106",2.4,4.3,0,0,1,3,6
+,Number of work experiences,"4,106",3.7,3.3,1,2,3,5,7
+,Number of volunteer experiences,"4,106",6.6,4.5,2,4,6,9,12
+Internal Medicine (preliminary),STEP 1 Score,"1,998",235.4,17.7,210,223,238,248,257
+,STEP 2 CK Score,"2,015",243.5,16.2,220,233,245,255,263
+,Number of research experiences,"2,090",3.1,2.3,1,2,3,4,6
+,"Number of abstracts, presentations, and publications","2,090",7.4,9.1,0,2,5,10,17
+,Number of work experiences,"2,090",3.5,2.9,1,2,3,5,7
+,Number of volunteer experiences,"2,090",6.4,4.1,2,4,6,9,12
+Internal Medicine (categorical),STEP 1 Score,"6,722",230.4,17.7,206,218,231,244,253
+,STEP 2 CK Score,"6,937",240.5,16,219,229,241,252,261
+,Number of research experiences,"7,687",2.1,1.9,0,1,2,3,4
+,"Number of abstracts, presentations, and publications","7,687",4.1,6,0,0,2,5,10
+,Number of work experiences,"7,687",3.9,3.3,1,2,3,5,8
+,Number of volunteer experiences,"7,687",5.4,3.9,1,3,5,7,10
+Internal Medicine/Pediatrics,STEP 1 Score,344,234,15.9,213,222,234,246,254
+,STEP 2 CK Score,344,247.4,14.1,228.3,238,247.5,257,266.7
+,Number of research experiences,364,2.6,1.9,1,1,2,4,5
+,"Number of abstracts, presentations, and publications",364,4.3,5.8,0,1,3,6,9
+,Number of work experiences,364,3.5,2.8,1,2,3,5,7
+,Number of volunteer experiences,364,8.9,4.6,4,6,8,11,14.7
+Neurological Surgery,STEP 1 Score,222,243.7,13.8,224,236.3,245,253,260
+,STEP 2 CK Score,225,247.8,14,229,239,249,257,265
+,Number of research experiences,225,4.8,3.1,2,3,4,6,8
+,"Number of abstracts, presentations, and publications",225,20.4,22.1,5,9,14,24,41.6
+,Number of work experiences,225,3.2,2.9,1,2,3,4,7
+,Number of volunteer experiences,225,6.8,4.2,2,4,6,9,13
+Neurology,STEP 1 Score,740,230,18.3,205.9,216,230,244,255
+,STEP 2 CK Score,762,239.6,16.5,217,229,240.5,251,261
+,Number of research experiences,819,2.8,2.4,0,1,2,4,5
+,"Number of abstracts, presentations, and publications",819,5.7,7.6,0,1,3,8,13
+,Number of work experiences,819,3.5,3,0,1,3,5,7
+,Number of volunteer experiences,819,5.6,4.1,1,3,5,8,10
+Obstetrics and Gynecology1,STEP 1 Score,"1,267",228.4,15.9,207,217,229,240,248
+,STEP 2 CK Score,"1,279",244.7,14,226,235,246,254,263
+,Number of research experiences,"1,352",2.9,2,0,1,3,4,6
+,"Number of abstracts, presentations, and publications","1,352",4.7,5.5,0,1,3,6,10
+,Number of work experiences,"1,352",3.6,2.8,1,2,3,5,7
+,Number of volunteer experiences,"1,352",8.3,4.5,4,5,8,10,14
+Orthopaedic Surgery,STEP 1 Score,769,246.2,12.5,228.8,239,248,255,261
+,STEP 2 CK Score,747,253.4,12.1,238,247,254,262,268
+,Number of research experiences,770,4,2.5,1,2,4,5,7
+,"Number of abstracts, presentations, and publications",770,10.7,14.9,1,3,7,12,24
+,Number of work experiences,770,3.3,2.2,1,2,3,4,6
+,Number of volunteer experiences,770,7.5,3.9,3,5,7,10,13
+Otolaryngology,STEP 1 Score,309,246.7,12.8,228,241,249,255,262
+,STEP 2 CK Score,314,252.1,13.2,234.3,244,254,262.8,267.7
+,Number of research experiences,316,4.9,2.6,2,3,5,6,8
+,"Number of abstracts, presentations, and publications",316,11.3,11.3,3,5,8,14,22
+,Number of work experiences,316,3.6,3.2,1,2,3,5,7
+,Number of volunteer experiences,316,7.7,4.2,3,5,7,10,13
+Pathology: Anatomic and Clinical,STEP 1 Score,516,227.5,17.7,202,215,228,241,250
+,STEP 2 CK Score,517,234.5,17.3,212,221,234,247,257
+,Number of research experiences,554,2.3,1.9,0,1,2,3,5
+,"Number of abstracts, presentations, and publications",554,7.6,12.9,0,1,4,11,18
+,Number of work experiences,554,4,3.5,1,2,3,5,8
+,Number of volunteer experiences,554,4.5,3.8,1,2,4,6,9
+Pediatrics1,STEP 1 Score,"2,626",226,17.3,202,213,226,239,249
+,STEP 2 CK Score,"2,628",240,15.6,219,228,241,251,260
+,Number of research experiences,"2,833",2.3,1.8,0,1,2,3,5
+,"Number of abstracts, presentations, and publications","2,833",3.9,5.3,0,0,2,5,9
+,Number of work experiences,"2,833",3.5,2.8,1,2,3,5,7
+,Number of volunteer experiences,"2,833",7.4,4.2,3,4,7,10,13
+Physical Medicine and Rehabilitation,STEP 1 Score,296,224.9,16,204.5,213,224,237,246
+,STEP 2 CK Score,339,236.5,14.7,218.8,227,236,247,256
+,Number of research experiences,406,2.4,2.6,0,1,2,3,4
+,"Number of abstracts, presentations, and publications",406,4.4,6.7,0,1,3,6,10
+,Number of work experiences,406,3.2,2.5,0,2,3,4,6.5
+,Number of volunteer experiences,406,7.2,4.2,3,4,7,10,12
+Plastic Surgery: Integrated,STEP 1 Score,171,246.5,13.2,231,240,248,255,262
+,STEP 2 CK Score,173,252.5,13.1,236,245,253,262,267
+,Number of research experiences,173,4.7,2.6,2,3,4,6,8
+,"Number of abstracts, presentations, and publications",173,14.3,13.3,3,6,10,18,29
+,Number of work experiences,173,3.4,2.4,1,2,3,5,6.8
+,Number of volunteer experiences,173,7.4,3.7,3,5,7,9,12
+Psychiatry,STEP 1 Score,"1,419",221.4,17.8,198,207.5,220,234,246
+,STEP 2 CK Score,"1,432",234.3,16.3,213.1,222,234,246,256
+,Number of research experiences,"1,633",2.3,1.9,0,1,2,3,5
+,"Number of abstracts, presentations, and publications","1,633",4.3,6,0,0,2,6,11
+,Number of work experiences,"1,633",3.6,3.1,1,2,3,5,7
+,Number of volunteer experiences,"1,633",6.3,4.3,2,3,6,9,12
+Surgery: General (preliminary),STEP 1 Score,"1,214",233,18.3,206,221,235,247,255
+,STEP 2 CK Score,"1,237",241.2,16.2,218,230,242,253,262
+,Number of research experiences,"1,243",3.3,2.6,0,1,3,5,6
+,"Number of abstracts, presentations, and publications","1,243",8.9,12.7,0,2,5,11,20
+,Number of work experiences,"1,243",3.6,3.1,1,2,3,5,7
+,Number of volunteer experiences,"1,243",6.1,4.3,1,3,5,8,11
+Surgery: General (categorical),STEP 1 Score,"1,238",235.1,15.2,215,224,235,246,256
+,STEP 2 CK Score,"1,236",246.9,13.5,230,238,248,256.3,264
+,Number of research experiences,"1,292",3,2,1,2,3,4,6
+,"Number of abstracts, presentations, and publications","1,292",6.1,7.2,0,2,4,8,14
+,Number of work experiences,"1,292",3.4,2.7,1,2,3,5,6.9
+,Number of volunteer experiences,"1,292",7.1,4.8,2,4,6,9,12
+Thoracic Surgery: Integrated,STEP 1 Score,36,244.1,14.1,225,237.8,245.5,254,260
+,STEP 2 CK Score,38,253.7,13.3,235.4,248.5,257,262.8,265.3
+,Number of research experiences,37,4.1,2.3,1.6,3,4,6,6
+,"Number of abstracts, presentations, and publications",37,10.7,11.9,1.6,5,7,11,21.2
+,Number of work experiences,37,3,1.9,1,2,3,4,5.4
+,Number of volunteer experiences,37,6,2.8,2.6,4,6,8,9
+Transitional Year,STEP 1 Score,"1,124",237.6,18.5,210,226,240,252,259
+,STEP 2 CK Score,"1,116",244.9,16.7,221,234,247,258,265
+,Number of research experiences,"1,217",3.3,2.4,0,1,3,5,6
+,"Number of abstracts, presentations, and publications","1,217",8.1,10.1,0,2,5,11,19
+,Number of work experiences,"1,217",3.5,2.9,1,2,3,5,7
+,Number of volunteer experiences,"1,217",6.8,4.4,2,4,6,9,12
+Vascular Surgery: Integrated,STEP 1 Score,63,235,16.1,210.4,226.5,237,245.5,254.6
+,STEP 2 CK Score,63,242.1,15.2,223,231,242,255,260.8
+,Number of research experiences,64,4.4,2.5,2,2.8,4,6,7.7
+,"Number of abstracts, presentations, and publications",64,11.4,13.8,3,4,8,12.3,21
+,Number of work experiences,64,3,2.2,0,1,3,4,6
+,Number of volunteer experiences,64,6.3,3.3,2.3,4,6,9,10

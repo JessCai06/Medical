@@ -1,0 +1,185 @@
+ACGME-Accredited Specialties,Description of Test or Experience,Number,Average,Standard Deviation,10th Percentile,25th Percentile,50th Percentile,75th Percentile,90th Percentile
+Anesthesiology,COMLEX Level 1 Score,311,595.7,78.1,503.0,539.0,593.0,649.0,692.0
+Anesthesiology,COMLEX Level 2-CE Score,311,608.3,89.4,496.0,543.0,601.0,660.0,728.0
+Anesthesiology,USMLE STEP 1 Score,"1,624",231.9,15.2,212.0,222.0,233.0,243.0,251.0
+Anesthesiology,USMLE STEP 2 CK Score,"1,611",242.6,14.0,224.0,233.0,243.0,253.0,260.0
+Anesthesiology,Number of research experiences,"1,666",2.5,1.9,0.0,1.0,2.0,4.0,5.0
+Anesthesiology,"Number of abstracts, presentations, and publications","1,666",4.8,6.9,0.0,1.0,3.0,6.0,11.0
+Anesthesiology,Number of work experiences,"1,666",3.2,2.4,1.0,2.0,3.0,4.0,6.0
+Anesthesiology,Number of volunteer experiences,"1,666",6.4,4.0,2.0,4.0,6.0,8.0,11.0
+Child Neurology,COMLEX Level 1 Score,16,574.6,72.2,496.0,527.3,554.5,636.3,660.5
+Child Neurology,COMLEX Level 2-CE Score,16,615.1,109.7,507.5,550.5,591.0,694.8,759.5
+Child Neurology,USMLE STEP 1 Score,132,230.4,16.6,211.0,218.0,231.0,242.3,251.0
+Child Neurology,USMLE STEP 2 CK Score,144,241.6,16.8,220.3,232.8,243.0,253.0,262.0
+Child Neurology,Number of research experiences,148,2.9,2.0,1.0,1.0,3.0,4.0,5.3
+Child Neurology,"Number of abstracts, presentations, and publications",148,5.7,7.3,0.0,1.0,3.5,8.0,13.0
+Child Neurology,Number of work experiences,148,3.3,2.3,1.0,1.0,3.0,5.0,6.0
+Child Neurology,Number of volunteer experiences,148,7.4,4.8,2.7,4.0,7.0,9.0,13.0
+Emergency Medicine,COMLEX Level 1 Score,631,578.5,81.7,476.0,521.0,574.0,634.0,684.0
+Emergency Medicine,COMLEX Level 2-CE Score,631,598.5,93.0,480.0,529.0,592.0,660.0,721.0
+Emergency Medicine,USMLE STEP 1 Score,"2,285",230.9,15.9,209.4,221.0,232.0,242.0,251.0
+Emergency Medicine,USMLE STEP 2 CK Score,"2,250",244.8,14.1,226.0,236.0,246.0,255.0,262.0
+Emergency Medicine,Number of research experiences,"2,445",2.1,1.7,0.0,1.0,2.0,3.0,4.0
+Emergency Medicine,"Number of abstracts, presentations, and publications","2,445",3.6,5.0,0.0,0.0,2.0,5.0,9.0
+Emergency Medicine,Number of work experiences,"2,445",3.6,2.7,1.0,2.0,3.0,5.0,7.0
+Emergency Medicine,Number of volunteer experiences,"2,445",6.9,4.0,2.0,4.0,6.0,9.0,12.0
+Family Medicine,COMLEX Level 1 Score,"1,365",505.6,69.5,423.0,453.0,496.0,546.0,602.0
+Family Medicine,COMLEX Level 2-CE Score,"1,364",518.3,79.7,423.0,455.5,508.0,566.0,625.0
+Family Medicine,USMLE STEP 1 Score,"3,349",215.5,16.2,196.0,203.0,214.0,226.0,238.0
+Family Medicine,USMLE STEP 2 CK Score,"3,286",231.0,14.8,213.0,220.0,230.0,241.0,251.0
+Family Medicine,Number of research experiences,"4,276",1.6,1.7,0.0,0.0,1.0,2.0,4.0
+Family Medicine,"Number of abstracts, presentations, and publications","4,276",2.5,4.2,0.0,0.0,1.0,3.0,7.0
+Family Medicine,Number of work experiences,"4,276",3.8,3.3,1.0,2.0,3.0,5.0,8.0
+Family Medicine,Number of volunteer experiences,"4,276",6.6,4.3,2.0,4.0,6.0,9.0,12.0
+Internal Medicine (categorical),COMLEX Level 1 Score,"1,397",550.6,82.0,446.0,490.0,543.0,606.0,659.8
+Internal Medicine (categorical),COMLEX Level 2-CE Score,"1,397",559.1,89.9,451.0,491.0,547.0,613.0,683.0
+Internal Medicine (categorical),USMLE STEP 1 Score,"7,252",230.4,17.5,207.0,218.0,231.0,243.0,253.0
+Internal Medicine (categorical),USMLE STEP 2 CK Score,"7,268",241.1,15.5,220.0,230.0,242.0,253.0,261.0
+Internal Medicine (categorical),Number of research experiences,"7,791",2.2,2.0,0.0,1.0,2.0,3.0,5.0
+Internal Medicine (categorical),"Number of abstracts, presentations, and publications","7,791",4.5,6.6,0.0,0.0,3.0,6.0,11.0
+Internal Medicine (categorical),Number of work experiences,"7,791",3.9,3.3,1.0,2.0,3.0,5.0,8.0
+Internal Medicine (categorical),Number of volunteer experiences,"7,791",5.7,3.9,1.0,3.0,5.0,8.0,11.0
+Internal Medicine (preliminary),COMLEX Level 1 Score,213,607.5,88.8,500.0,561.0,601.0,657.0,730.0
+Internal Medicine (preliminary),COMLEX Level 2-CE Score,213,619.0,99.4,482.0,545.0,618.0,686.0,745.6
+Internal Medicine (preliminary),USMLE STEP 1 Score,"2,003",235.7,17.1,211.0,225.0,238.0,249.0,256.0
+Internal Medicine (preliminary),USMLE STEP 2 CK Score,"2,021",244.1,15.5,223.0,233.0,245.0,256.0,263.0
+Internal Medicine (preliminary),Number of research experiences,"2,062",3.3,2.5,1.0,1.0,3.0,5.0,6.0
+Internal Medicine (preliminary),"Number of abstracts, presentations, and publications","2,062",8.1,9.9,0.0,2.0,5.0,11.0,19.0
+Internal Medicine (preliminary),Number of work experiences,"2,062",3.5,2.9,1.0,2.0,3.0,5.0,7.0
+Internal Medicine (preliminary),Number of volunteer experiences,"2,062",6.7,4.1,2.0,4.0,6.0,9.0,12.0
+Internal Medicine/Pediatrics,COMLEX Level 1 Score,31,593.0,76.0,490.0,558.0,594.0,637.5,682.0
+Internal Medicine/Pediatrics,COMLEX Level 2-CE Score,31,620.5,91.9,526.0,551.0,622.0,688.0,739.0
+Internal Medicine/Pediatrics,USMLE STEP 1 Score,362,233.5,16.5,214.0,222.0,234.0,246.0,255.0
+Internal Medicine/Pediatrics,USMLE STEP 2 CK Score,360,248.4,14.4,227.0,239.0,249.0,260.0,266.0
+Internal Medicine/Pediatrics,Number of research experiences,368,2.6,1.9,0.0,1.0,2.0,4.0,5.0
+Internal Medicine/Pediatrics,"Number of abstracts, presentations, and publications",368,4.7,5.1,0.0,1.0,3.0,7.0,10.0
+Internal Medicine/Pediatrics,Number of work experiences,368,3.6,2.4,1.0,2.0,3.0,5.0,7.0
+Internal Medicine/Pediatrics,Number of volunteer experiences,368,8.8,4.9,4.0,5.0,8.0,11.0,15.0
+Neurological Surgery,COMLEX Level 1 Score,7,-,-,-,-,-,-,-
+Neurological Surgery,COMLEX Level 2-CE Score,7,-,-,-,-,-,-,-
+Neurological Surgery,USMLE STEP 1 Score,227,246.0,13.6,229.0,238.0,248.0,255.0,262.0
+Neurological Surgery,USMLE STEP 2 CK Score,228,251.6,12.9,235.0,243.0,252.0,262.0,267.0
+Neurological Surgery,Number of research experiences,224,5.0,2.8,2.0,3.0,5.0,6.0,8.0
+Neurological Surgery,"Number of abstracts, presentations, and publications",224,18.0,15.8,4.3,8.0,14.0,22.0,34.0
+Neurological Surgery,Number of work experiences,224,3.1,2.4,1.0,1.0,3.0,4.0,6.0
+Neurological Surgery,Number of volunteer experiences,224,7.2,4.2,3.0,5.0,7.0,9.0,11.7
+Neurology,COMLEX Level 1 Score,111,589.0,92.3,483.0,515.0,569.0,651.5,717.0
+Neurology,COMLEX Level 2-CE Score,111,609.9,103.5,489.0,533.0,592.0,677.5,758.0
+Neurology,USMLE STEP 1 Score,844,230.1,17.4,206.3,217.0,231.0,243.0,253.0
+Neurology,USMLE STEP 2 CK Score,841,240.5,15.9,219.0,229.0,241.0,253.0,262.0
+Neurology,Number of research experiences,872,2.9,2.2,0.0,1.0,3.0,4.0,6.0
+Neurology,"Number of abstracts, presentations, and publications",872,7.0,8.8,0.0,2.0,4.0,9.0,16.0
+Neurology,Number of work experiences,872,3.8,3.4,1.0,2.0,3.0,5.0,8.0
+Neurology,Number of volunteer experiences,872,5.9,3.9,1.0,3.0,5.0,8.0,11.0
+Obstetrics and Gynecology1,COMLEX Level 1 Score,225,577.9,76.9,483.8,531.0,573.0,619.0,674.6
+Obstetrics and Gynecology1,COMLEX Level 2-CE Score,225,607.8,97.7,485.2,550.0,594.0,657.0,752.2
+Obstetrics and Gynecology1,USMLE STEP 1 Score,"1,301",230.0,15.1,210.0,220.0,230.0,240.0,251.0
+Obstetrics and Gynecology1,USMLE STEP 2 CK Score,"1,304",246.0,13.1,227.0,237.0,247.0,255.0,263.0
+Obstetrics and Gynecology1,Number of research experiences,"1,376",3.2,2.1,1.0,2.0,3.0,4.0,6.0
+Obstetrics and Gynecology1,"Number of abstracts, presentations, and publications","1,376",5.4,5.9,0.0,2.0,4.0,7.0,12.0
+Obstetrics and Gynecology1,Number of work experiences,"1,376",3.6,2.5,1.0,2.0,3.0,5.0,7.0
+Obstetrics and Gynecology1,Number of volunteer experiences,"1,376",9.0,4.5,4.0,6.0,8.0,11.0,15.0
+Orthopaedic Surgery,COMLEX Level 1 Score,96,670.5,84.3,576.5,621.8,673.0,717.0,752.5
+Orthopaedic Surgery,COMLEX Level 2-CE Score,96,678.6,80.3,568.5,624.3,682.0,733.3,783.0
+Orthopaedic Surgery,USMLE STEP 1 Score,813,246.3,12.4,231.0,239.0,247.0,255.0,261.0
+Orthopaedic Surgery,USMLE STEP 2 CK Score,787,253.3,12.2,238.0,246.0,255.0,262.0,268.0
+Orthopaedic Surgery,Number of research experiences,827,4.1,2.7,1.0,2.0,4.0,5.0,7.0
+Orthopaedic Surgery,"Number of abstracts, presentations, and publications",827,12.4,16.9,1.0,4.0,7.0,15.0,28.0
+Orthopaedic Surgery,Number of work experiences,827,3.2,2.3,1.0,2.0,3.0,4.0,6.0
+Orthopaedic Surgery,Number of volunteer experiences,827,7.5,4.2,3.0,5.0,7.0,10.0,13.0
+Osteopathic Neuromusculoskeletal Medicine,COMLEX Level 1 Score,26,498.9,72.5,422.5,441.0,488.0,545.0,607.5
+Osteopathic Neuromusculoskeletal Medicine,COMLEX Level 2-CE Score,26,514.3,78.4,435.0,457.3,492.5,562.0,640.0
+Osteopathic Neuromusculoskeletal Medicine,USMLE STEP 1 Score,4,-,-,-,-,-,-,-
+Osteopathic Neuromusculoskeletal Medicine,USMLE STEP 2 CK Score,2,-,-,-,-,-,-,-
+Osteopathic Neuromusculoskeletal Medicine,Number of research experiences,26,1.0,1.2,0.0,0.0,1.0,1.8,2.5
+Osteopathic Neuromusculoskeletal Medicine,"Number of abstracts, presentations, and publications",26,1.4,2.3,0.0,0.0,0.0,1.8,4.5
+Osteopathic Neuromusculoskeletal Medicine,Number of work experiences,26,4.9,7.5,1.0,2.0,3.5,4.8,7.0
+Osteopathic Neuromusculoskeletal Medicine,Number of volunteer experiences,26,5.4,6.2,0.0,1.3,3.0,7.8,11.0
+Otolaryngology,COMLEX Level 1 Score,18,639.3,87.8,547.6,621.3,634.0,672.8,733.4
+Otolaryngology,COMLEX Level 2-CE Score,18,661.2,82.0,568.3,582.5,685.5,716.3,749.8
+Otolaryngology,USMLE STEP 1 Score,319,246.8,12.5,231.8,240.0,248.0,254.5,261.2
+Otolaryngology,USMLE STEP 2 CK Score,318,254.0,11.0,240.0,246.3,255.0,262.0,267.3
+Otolaryngology,Number of research experiences,319,5.1,2.7,2.0,3.0,5.0,7.0,9.0
+Otolaryngology,"Number of abstracts, presentations, and publications",319,11.6,10.1,3.8,5.0,8.0,14.0,24.0
+Otolaryngology,Number of work experiences,319,3.2,2.1,1.0,2.0,3.0,4.0,6.0
+Otolaryngology,Number of volunteer experiences,319,8.1,4.0,4.0,5.0,8.0,10.0,13.0
+Pathology: Anatomic and Clinical,COMLEX Level 1 Score,54,562.9,72.4,473.6,521.0,556.5,613.5,666.5
+Pathology: Anatomic and Clinical,COMLEX Level 2-CE Score,54,572.4,85.1,458.2,505.3,573.0,628.0,686.0
+Pathology: Anatomic and Clinical,USMLE STEP 1 Score,531,226.5,17.0,204.0,214.0,226.0,238.0,249.0
+Pathology: Anatomic and Clinical,USMLE STEP 2 CK Score,533,233.7,16.4,214.0,222.0,233.0,244.0,256.0
+Pathology: Anatomic and Clinical,Number of research experiences,549,2.5,2.3,0.0,1.0,2.0,4.0,5.0
+Pathology: Anatomic and Clinical,"Number of abstracts, presentations, and publications",549,8.2,11.8,0.0,1.0,5.0,10.0,20.0
+Pathology: Anatomic and Clinical,Number of work experiences,549,4.2,3.3,0.0,2.0,3.0,6.0,8.0
+Pathology: Anatomic and Clinical,Number of volunteer experiences,549,4.6,4.1,1.0,2.0,4.0,6.0,9.0
+Pediatrics1,COMLEX Level 1 Score,461,541.6,76.2,446.0,481.0,533.0,594.0,644.0
+Pediatrics1,COMLEX Level 2-CE Score,461,558.5,90.9,447.0,494.0,543.0,615.0,686.0
+Pediatrics1,USMLE STEP 1 Score,"2,717",225.4,17.3,202.0,213.0,225.0,238.0,249.0
+Pediatrics1,USMLE STEP 2 CK Score,"2,690",240.1,15.4,220.0,229.0,240.0,251.0,261.0
+Pediatrics1,Number of research experiences,"2,881",2.4,1.9,0.0,1.0,2.0,3.0,5.0
+Pediatrics1,"Number of abstracts, presentations, and publications","2,881",4.2,6.1,0.0,1.0,3.0,6.0,10.0
+Pediatrics1,Number of work experiences,"2,881",3.6,2.8,1.0,2.0,3.0,5.0,7.0
+Pediatrics1,Number of volunteer experiences,"2,881",7.8,4.6,3.0,5.0,7.0,10.0,14.0
+Physical Medicine and Rehabilitation,COMLEX Level 1 Score,140,527.0,71.1,444.6,475.8,512.0,569.0,631.0
+Physical Medicine and Rehabilitation,COMLEX Level 2-CE Score,140,545.7,76.8,456.0,497.5,540.0,590.0,632.0
+Physical Medicine and Rehabilitation,USMLE STEP 1 Score,353,224.2,16.0,202.0,214.0,224.0,236.0,244.0
+Physical Medicine and Rehabilitation,USMLE STEP 2 CK Score,330,236.8,13.6,220.0,227.3,237.0,245.0,254.0
+Physical Medicine and Rehabilitation,Number of research experiences,422,2.4,1.9,0.0,1.0,2.0,3.0,5.0
+Physical Medicine and Rehabilitation,"Number of abstracts, presentations, and publications",422,4.3,6.0,0.0,0.3,3.0,6.0,10.0
+Physical Medicine and Rehabilitation,Number of work experiences,422,3.8,3.6,1.0,2.0,3.0,5.0,7.0
+Physical Medicine and Rehabilitation,Number of volunteer experiences,422,7.2,4.6,2.0,4.0,6.0,9.0,13.0
+Plastic Surgery: Integrated,COMLEX Level 1 Score,3,-,-,-,-,-,-,-
+Plastic Surgery: Integrated,COMLEX Level 2-CE Score,3,-,-,-,-,-,-,-
+Plastic Surgery: Integrated,USMLE STEP 1 Score,176,245.4,12.6,230.0,238.0,247.0,253.3,260.5
+Plastic Surgery: Integrated,USMLE STEP 2 CK Score,176,251.5,12.3,235.5,243.0,252.0,260.3,266.5
+Plastic Surgery: Integrated,Number of research experiences,176,4.9,3.1,2.0,3.0,4.0,7.0,8.0
+Plastic Surgery: Integrated,"Number of abstracts, presentations, and publications",176,17.5,15.6,4.0,7.8,13.0,21.0,37.0
+Plastic Surgery: Integrated,Number of work experiences,176,3.2,2.2,1.0,1.0,3.0,4.0,6.0
+Plastic Surgery: Integrated,Number of volunteer experiences,176,7.0,3.6,3.0,4.0,7.0,9.0,12.0
+Psychiatry,COMLEX Level 1 Score,323,534.9,76.5,440.0,480.0,528.0,582.0,642.6
+Psychiatry,COMLEX Level 2-CE Score,323,542.0,82.6,442.4,477.0,540.0,592.0,649.6
+Psychiatry,USMLE STEP 1 Score,"1,561",222.8,17.2,200.0,210.0,222.0,236.0,246.0
+Psychiatry,USMLE STEP 2 CK Score,"1,541",236.1,15.6,216.0,225.0,236.0,248.0,256.0
+Psychiatry,Number of research experiences,"1,731",2.5,2.0,0.0,1.0,2.0,4.0,5.0
+Psychiatry,"Number of abstracts, presentations, and publications","1,731",4.4,5.8,0.0,1.0,3.0,6.0,11.0
+Psychiatry,Number of work experiences,"1,731",3.7,3.3,1.0,2.0,3.0,5.0,7.0
+Psychiatry,Number of volunteer experiences,"1,731",6.6,4.2,2.0,4.0,6.0,9.0,12.0
+Surgery: General (categorical),COMLEX Level 1 Score,183,596.0,81.1,495.2,531.0,596.0,642.0,699.4
+Surgery: General (categorical),COMLEX Level 2-CE Score,183,614.5,96.7,487.4,545.0,611.0,681.0,744.6
+Surgery: General (categorical),USMLE STEP 1 Score,"1,323",234.7,15.2,214.0,225.0,235.0,245.5,254.0
+Surgery: General (categorical),USMLE STEP 2 CK Score,"1,314",247.3,13.3,230.0,239.0,248.0,257.0,264.0
+Surgery: General (categorical),Number of research experiences,"1,360",3.2,2.1,1.0,2.0,3.0,4.0,6.0
+Surgery: General (categorical),"Number of abstracts, presentations, and publications","1,360",6.4,7.2,0.0,2.0,5.0,9.0,14.0
+Surgery: General (categorical),Number of work experiences,"1,360",3.4,2.4,1.0,2.0,3.0,5.0,7.0
+Surgery: General (categorical),Number of volunteer experiences,"1,360",7.3,4.3,3.0,4.0,7.0,9.0,13.0
+Surgery: General (preliminary),COMLEX Level 1 Score,82,614.7,89.5,512.0,554.5,611.5,670.8,745.0
+Surgery: General (preliminary),COMLEX Level 2-CE Score,82,620.8,108.6,461.5,554.8,623.5,681.0,751.6
+Surgery: General (preliminary),USMLE STEP 1 Score,966,230.3,17.5,205.0,217.0,232.0,244.0,252.0
+Surgery: General (preliminary),USMLE STEP 2 CK Score,980,239.3,15.1,218.0,228.0,240.0,251.0,258.1
+Surgery: General (preliminary),Number of research experiences,967,3.2,2.6,0.0,1.0,3.0,4.0,6.0
+Surgery: General (preliminary),"Number of abstracts, presentations, and publications",967,8.8,14.3,0.0,2.0,5.0,11.0,19.0
+Surgery: General (preliminary),Number of work experiences,967,4.0,3.6,1.0,2.0,3.0,5.0,8.0
+Surgery: General (preliminary),Number of volunteer experiences,967,6.4,4.5,1.0,3.0,6.0,9.0,12.0
+Thoracic Surgery: Integrated,COMLEX Level 1 Score,0,-,-,-,-,-,-,-
+Thoracic Surgery: Integrated,COMLEX Level 2-CE Score,0,-,-,-,-,-,-,-
+Thoracic Surgery: Integrated,USMLE STEP 1 Score,34,247.3,16.1,228.9,241.3,247.5,256.8,266.1
+Thoracic Surgery: Integrated,USMLE STEP 2 CK Score,35,254.2,14.2,234.0,245.0,254.0,267.0,270.8
+Thoracic Surgery: Integrated,Number of research experiences,33,4.7,2.1,2.0,3.0,5.0,5.0,8.0
+Thoracic Surgery: Integrated,"Number of abstracts, presentations, and publications",33,14.7,14.2,3.2,6.0,10.0,18.0,30.2
+Thoracic Surgery: Integrated,Number of work experiences,33,3.0,2.2,0.0,1.0,3.0,5.0,6.0
+Thoracic Surgery: Integrated,Number of volunteer experiences,33,6.8,4.2,2.2,4.0,7.0,9.0,12.8
+Transitional Year,COMLEX Level 1 Score,336,580.3,96.7,463.0,512.5,577.0,649.5,709.0
+Transitional Year,COMLEX Level 2-CE Score,336,585.6,112.6,440.0,498.0,578.0,665.5,744.0
+Transitional Year,USMLE STEP 1 Score,"1,218",236.4,18.6,208.7,225.0,240.0,250.0,258.0
+Transitional Year,USMLE STEP 2 CK Score,"1,204",244.8,16.4,221.3,233.8,247.0,257.0,264.0
+Transitional Year,Number of research experiences,"1,323",3.1,2.5,0.0,1.0,3.0,4.0,6.0
+Transitional Year,"Number of abstracts, presentations, and publications","1,323",7.6,11.3,0.0,2.0,5.0,10.0,17.0
+Transitional Year,Number of work experiences,"1,323",3.5,2.8,1.0,2.0,3.0,5.0,6.0
+Transitional Year,Number of volunteer experiences,"1,323",6.9,4.3,2.0,4.0,6.0,9.0,12.0
+Vascular Surgery: Integrated,COMLEX Level 1 Score,5,-,-,-,-,-,-,-
+Vascular Surgery: Integrated,COMLEX Level 2-CE Score,5,-,-,-,-,-,-,-
+Vascular Surgery: Integrated,USMLE STEP 1 Score,71,234.7,16.2,213.0,224.0,236.0,246.0,253.0
+Vascular Surgery: Integrated,USMLE STEP 2 CK Score,72,246.2,13.9,225.3,237.8,248.0,257.0,264.0
+Vascular Surgery: Integrated,Number of research experiences,72,3.7,1.9,1.0,3.0,4.0,5.0,6.0
+Vascular Surgery: Integrated,"Number of abstracts, presentations, and publications",72,9.3,9.7,1.0,3.8,7.0,11.3,17.9
+Vascular Surgery: Integrated,Number of work experiences,72,3.5,2.5,1.0,2.0,3.0,5.0,7.0
+Vascular Surgery: Integrated,Number of volunteer experiences,72,7.0,4.1,2.1,4.0,7.0,9.0,11.0
